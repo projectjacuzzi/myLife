@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-uforic-life",
+  "private_key_id": "f50a0324aa40f6ca566f4daf6945858a1d13f532",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCubDNAYUalTjeW\nY6V5eS+rI4jlE5aN7UZCbF71+4w4eq11QhiNNZ9Tbosvtl3w/iFNPsxGlCqKM5wh\nr4BWVndO0Nlh6Rx0sgVBqJ1p/4KWNeGm8ww4/vGEKrWSIgpFI62P06pLS0K6MKbr\nqKfbjfVVTnQkd00emvBTIgkq6WNUrp/h6Fy1463c05erESVvBS2yof74dQfKQPiG\nnGCz/ETIWSh25gan4DCGYosgbI5q60X5t0fMCctBRQJ2le9N2ik6GAqdl/zWXESr\nGT/odKiB2W90YsXTDggBixgSzazGQ2NlfbHxEl+ujHTztsI9jXzn4wwZGa84DR94\nmvNIvT1pAgMBAAECggEAE4DFuk0mORWl4YsC1bJXQiuXAwZNr1D4qjSz6Y1XAHm3\nK4VYeXGlfw69QXiCyI+h6aE79ihbGVjr/FhDYWQJsyZnKCuIowPE0rKn51JKp8Ee\nmixTEYxwNPcRlmV4AIMcxRhF0mV38JnAEFmra0FUTVWYZvtwBBwPAzyrCcFO+gjd\nKIFVZ0H6sYWSQSI68T4DSqCxNq5MY3AhmG83x5kWkDVg1RMcuWJUrgIWun0TwfcR\nw2TP/UH1bbf3dSIF/9WWatBOYSC2gFa3XV69wB3rtzoWNKedtw9enzHeIo3dKcDh\no4UGFwlon74/ywT3GYCix87/mrMSctLb4WCYUNBEgQKBgQDmgAwGCPuQjdxrbffS\nU4dH80+TYcaURrURrTAYlxOZaegUHyyHuPksghp1tdFZPbjAy7orFW3My0zbG+o0\nTzBgcrsE0Sov7T9LFxNWL58EAjnDvSTkQig4LGCGVcrPTLKhs/GI40oYPK5TpdZA\n0yYAem68CzlQY9IMJFWuAo+6rwKBgQDBt/3y4b/NQYqarUqmRRmvyT5xesA6/8Fi\noy0c1eRDFD4tsHXMv/vDubRa2JY9CQvSgikms78dNuYWIMR+kCUYIsvu1NhLMm7f\nKir5aZ1VgaglDWV74gwuWIC9vbW9WTbtI1dIfiYx4okvg17BMI/cRbTkZYnVHvHl\n5/UAeU0vZwKBgQCCOkgQxNR0qGGnZJsGfuDIuuPzreNG9OfqU8H/sqOFIrvXWoGL\nMOu+xMb0SEQ+Okv+yVumadX+RcJnbM8WvMLlSwz0vMQsDcubvi7Tm9YoqqU+PMfy\nGpqkmhXy79fE5V1rVMIbB+dd6DLJ2cFCIMmwrXuQzHqWO7950rGBvbq8ywKBgHFP\nbA1rmsM2uRosjuOeu52k+w9pm5NnEfjeNX8OZYwPBSe4dc8j5OHhd+tDkO12oyGo\n3OU0cm9mM0NyOz1El0383IiAm1uwzkVe5vAopMzlIDM8GMZTvIhHYFab5vgwfP5M\nk7tlfnXjahcOopgiDaPsahjGg87TYO73tMloKou1AoGBAMZ14GxfzWc1oCEtunuo\n/T85xsZZCNB7ny7MzlV1Bn/HUb47RFCv2TKNtfjY5zOH5L8V3iZLjHTFwQRNOx6w\n08OT29hEhT3Kv+Fn3nf3rNxOcxMWCXgbrqBm2ToSo89k+fkuFidnzqdY2iNgh3uE\n169THy8Y/CuMPUYqdez22CE3\n-----END PRIVATE KEY-----\n",
+  "client_email": "ghulam@my-uforic-life.iam.gserviceaccount.com",
+  "client_id": "105585925976998602142",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ghulam%40my-uforic-life.iam.gserviceaccount.com"
+}
